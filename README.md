@@ -1,2 +1,2 @@
-# An-exercise-in-designing-databases---SQL
-An exercise in designing databases - SQL
+
+# SQL Data Analysis | Learn SQL by Doing #
