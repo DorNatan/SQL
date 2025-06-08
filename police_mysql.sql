@@ -50,3 +50,4 @@ CREATE TABLE `cops` (
   ,('C-33333','Marge Gunderson',37,'CM',NULL)
   ,('D-44444','Judy Hopps',50,'TR','C-33333')
   ,('E-55555','Jack Peralta',99,'DT','C-33333');
+SELECT 1;
