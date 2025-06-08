@@ -1,10 +1,11 @@
 # SQL Data Analysis | Learn SQL by Doing
 
-This repository collects a variety of MySQL database dumps and example
-queries used for learning and practicing SQL. Each dataset is provided as
-an SQL script that creates the schema and inserts sample data. Some
-datasets also include separate files with queries demonstrating common
-data analysis tasks.
+This project is a curated collection of SQL scripts designed for hands-on
+learning. It contains ready-made database dumps alongside query examples so
+that you can practice real-world analysis techniques in a local MySQL
+environment. Each dataset provides the full schema, inserts sample data, and
+includes additional files that walk through typical tasks such as filtering,
+aggregating, and joining tables.
 
 ## Included Datasets
 
