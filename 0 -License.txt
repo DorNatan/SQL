@@ -49,7 +49,7 @@ The following database is under the copyright (c) of MySQL
 
 -------------------------------------------------------------------------------------------------------------
 
-The sample data used in the the following database is Copyright Statistics Finland, 
+The sample data used in the following database is Copyright Statistics Finland, 
 http://www.stat.fi/worldinfigures. 
 -------------------------------------------------------------------------------------------------------------
 
