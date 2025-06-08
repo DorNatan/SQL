@@ -67,7 +67,7 @@ Q9#
 select city, COUNT(hotel_code)
 from hotels
 WHERE hotel_rank = 4 
-GROUP BY hotel_code ;
+GROUP BY city ;
 
 
 Q10#
